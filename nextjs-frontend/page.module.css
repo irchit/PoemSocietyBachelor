@@ -1,0 +1,17 @@
+.main{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+}
+
+.main a{
+  color: var(--olivine-light);
+  transition: all 0.3s ease-in-out;
+}
+
+.main a:hover{
+  color: var(--forest);
+  text-decoration: underline;
+}

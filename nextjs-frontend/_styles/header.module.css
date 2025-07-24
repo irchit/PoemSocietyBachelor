@@ -1,0 +1,68 @@
+.container{
+    width:100vw;
+    height: 10vh;
+    background-color: var(--olivine);
+    color: var(--dark-green);
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 7px 10px #0000008c;
+}
+
+.title{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 4vh;
+    font-weight: 700;
+    white-space:pre;
+    margin-left: 4vw;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.subtitle{
+    font-family: 'Courier Prime', sans-serif;
+    font-size: 2vh;
+    font-weight: 200;
+    white-space:pre;
+    margin-left: 4vw;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.logo{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.login{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+    border-radius: 20px;
+    background-color: #324432;
+    background-image: var(--forest-gradient);
+    background-blend-mode: multiply;
+    border: none;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    margin-left: 1vw;
+    margin-right: 5vw;
+    transition: all 0.25s ease-in;
+}
+
+.login:hover{
+    margin-left: 0vw;
+    margin-right: 4vw;
+    padding-left: 3vw;
+    padding-right: 3vw;
+}
+
+.login p {
+    margin: 1vh;
+    color: var(--olivine-light)
+}
+.login a {
+    margin: 1vh;
+    color: var(--olivine-light)
+}

@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=Quicksand:wght@300..700&display=swap');
+
+:root{
+    --olivine: #a5bf75ff;
+    --olivine-light: #eeffc7ff;
+    --dark-green: #0a210fff;
+    --dark-green-75: rgb(10, 33, 15, 0.75);
+    --forest: #14591dff;
+    --forest-opacity: rgba(20, 89, 29, 0.8);
+    --blue-light: #acd2edff;
+    --forest-gradient: linear-gradient(141deg, rgb(208, 237, 172) 0%, rgb(236, 243, 218) 20%, rgba(230, 250, 159, 0.799) 50%, rgb(255, 246, 199) 75%, #a5bf75ff 100%);
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+    background: #eeffc7ff;
+    background: var(--forest-gradient);
+}

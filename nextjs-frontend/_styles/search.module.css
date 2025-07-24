@@ -1,0 +1,234 @@
+.search_container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 85vh;
+    margin-top: 3vh;
+    margin-bottom: 2vh;
+    width: 100%;
+}
+
+.search_bar{
+    width: 70%;
+    background-color: var(--dark-green-75);
+    color: #fff;
+    height: 10vh;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.search_bar h1{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 300;
+}
+
+.search_bar input[type="text"] {
+    width: 50%;
+    height: 50%;
+    border-radius: 5px;
+    padding: 0 10px;
+    font-size: 3vh;
+    color: var(--dark-green);
+    text-align: right;
+    background-color: var(--olivine-light);
+    font-family: 'Quicksand', sans-serif;
+    border: none;
+}
+
+.results_container {
+    margin-top: 5vh;
+    width: 80%;
+    height: 65vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.results_users{
+    height: 100%;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: var(--dark-green-75);
+    border-radius: 25px;
+    color: #fff;
+}
+
+.results_users h3{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 300;
+    font-size: 2.5vh;
+}
+
+.results_users_list{
+    width: 100%;
+    height: 55vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.results_users_list p{
+    font-family: 'Quicksand', sans-serif;
+}
+
+.user_item{
+    box-sizing: border-box;
+    border-radius: 20px;
+    width: 90%;
+    height: 7vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    border-top: solid 5px var(--olivine-light);
+    border-left: solid 3px var(--olivine-light);
+    border-right: solid 3px var(--olivine-light);
+    margin-bottom: 1vh;
+    padding: 0.5vh 2%;
+}
+
+.user_item:last-child{
+    border-bottom: solid 5px var(--olivine-light);
+}
+
+.user_item:hover{
+    background-color: var(--olivine-light);
+    color: var(--dark-green);
+}
+
+.user_item a{
+    text-decoration: none;
+    color: inherit;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.user_item a:hover{
+    text-decoration: underline;
+    color: var(--dark-green-75);
+}
+
+.button_view_fllw{
+    border-radius: 20px;
+    border: none;
+    background-color: wheat;
+    width: 25%;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+    color: var(--dark-green);
+    cursor: pointer;
+    transition: width 0.3s ease-in, background-color 0.4s ease-in-out, color 0.3s ease-in-out;
+}
+
+.button_view_fllw:hover{
+    background-color: var(--dark-green);
+    color: wheat;
+    width: 30%;
+}
+
+.results_users_controller{
+    width: 100%;
+    height: 5vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 0 2%;
+}
+
+.results_poems{
+    height: 100%;
+    width: 65%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.results_filters{
+    width: 100%;
+    height: 5vh;
+    display: flex;
+    flex-direction: row;
+    background-color: var(--dark-green-75);
+    color:#fff;
+    border-radius: 25px;
+    margin-bottom: 2vh;
+}
+
+.results_poems_list{
+    width: 100%;
+    height: 58vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: var(--dark-green-75);
+    color:#fff;
+    border-radius: 25px;
+}
+
+.results_poems_list p{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 2vh;
+}
+
+.poem_item{
+    box-sizing: border-box;
+    border-radius: 20px;
+    width: 90%;
+    height: 10vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    border-top: solid 5px var(--olivine-light);
+    border-left: solid 3px var(--olivine-light);
+    border-right: solid 3px var(--olivine-light);
+    margin-bottom: 1vh;
+    padding: 0.5vh 2%;
+}
+
+.poem_item:last-child{
+    border-bottom: solid 5px var(--olivine-light);
+}
+
+.poem_item:hover{
+    background-color: var(--olivine-light);
+    color: var(--dark-green);
+}
+
+.poem_title{
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.poem_title h3{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 300;
+    font-size: 2.5vh;
+    margin: 0;
+    margin-bottom:3vh;
+}
+
+.poem_title p{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 300;
+    font-size: 2vh;
+    margin-top: 3vh;
+}
+
+.poem_actions{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}

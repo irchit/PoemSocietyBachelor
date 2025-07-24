@@ -1,0 +1,128 @@
+.container{
+    padding: 1.5vh 2vw;
+    height: 87vh;
+    width: 96vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+}
+
+.sidebar{
+    padding: 2vh 0;
+    height: 83vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+}
+
+.header{
+    height: 15vh;
+    width: 35vw;
+    border-radius: 25px;
+    background-color: var(--dark-green-75);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    font-family: 'Quicksand', sans-serif;
+    color: var(--olivine-light);
+    font-size: 4vh;
+}
+
+.information{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+    width: 35vw;
+    border-radius: 25px;
+    background-color: var(--dark-green-75);
+    gap: 3rem;
+}
+
+.information input[type="text"]{
+    width: 20vw;
+    font-family: 'Quicksand', sans-serif;
+    color: var(--dark-green);
+    font-size: 2vh;
+    border-radius: 10px;
+    border-color: var(--forest);
+    padding: 1vh 1vw;
+}
+
+.information div{
+    display: flex;
+    justify-content: space-between;
+    width: 20vw;
+}
+
+.information input[type="date"]{
+    width: 10vw;
+}
+
+.information label{
+    font-family: 'Quicksand', sans-serif;
+    color: var(--olivine-light);
+    font-size: 2vh;
+}
+
+.actions{
+    height: 15vh;
+    width: 25vw;
+    border-radius: 25px;
+    background-color: var(--dark-green-75);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    gap: 3rem;
+}
+
+.actions button{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    padding: 1vh 1vw;
+    cursor: pointer;
+    border: none;
+    border-radius: 25px;
+    width: 5vw;
+    transition: all 0.4s ease-in;
+    background-color: var(--olivine-light);
+    color: var(--dark-green);
+}
+
+.actions button:hover{
+    background-color: wheat;
+    color: var(--forest);    
+}
+
+.main_editor{
+    height: 65vh;
+    width: 50vw;
+    border-radius: 25px;
+    background-color: var(--dark-green-75);
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.main_editor textarea{
+    height: 50vh;
+    padding: 1vh 5%;
+    width: 90%;
+    font-family: 'Quicksand', sans-serif;
+    color: var(--dark-green);
+    font-size: 2vh;
+}
+
+.main_editor h3{
+    font-family: 'Quicksand', sans-serif;
+    color: var(--olivine-light);
+    font-size: 3vh;
+    font-weight: 300;
+}
