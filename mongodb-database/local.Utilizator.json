@@ -1,0 +1,1127 @@
+[{
+  "_id": 1,
+  "username": "irchit",
+  "password": "1234",
+  "name": "Răzvan",
+  "lastname": "Chiţea",
+  "birthday": "2003-06-17",
+  "created_at": "2025-06-12T00:38:00Z",
+  "gender": "male",
+  "email": "rchitea@gmail.com",
+  "bio": "Informatician cu metafore in buzunar...",
+  "preferences": {
+    "emotions": {
+      "hope": 0.1,
+      "love": 0.1,
+      "sadness": 0.1,
+      "joy": 0.1,
+      "fear": 0.1,
+      "regret": 0.1,
+      "loneliness": 0.1,
+      "calm": 0.1,
+      "admiration": 0.1,
+      "nostalgia": 0.1
+    },
+    "languages": {
+      "ro": 0.1,
+      "en": 0.1,
+      "es": 0.1,
+      "fr": 0.1,
+      "it": 0.1,
+      "de": 0.1
+    }
+  }
+},
+{
+  "_id": 2,
+  "username": "user1",
+  "password": "1234",
+  "name": "Ana",
+  "lastname": "Chiţea",
+  "gender": "female",
+  "birthday": "1994-07-25",
+  "created_at": "2025-06-12T00:38:00Z",
+  "email": "ana.chitea@gmail.com",
+  "preferences": {
+    "emotions": {
+      "hope": 0.1,
+      "love": 0.1,
+      "sadness": 0.1,
+      "joy": 0.1,
+      "fear": 0.1,
+      "regret": 0.1,
+      "loneliness": 0.1,
+      "calm": 0.1,
+      "admiration": 0.1,
+      "nostalgia": 0.1
+    },
+    "languages": {
+      "ro": 0.1,
+      "en": 0.1,
+      "es": 0.1,
+      "fr": 0.1,
+      "it": 0.1,
+      "de": 0.1
+    }
+  }
+},
+{
+  "_id": 3,
+  "username": "user2",
+  "password": "1234",
+  "name": "Andrei",
+  "lastname": "Popescu",
+  "gender": "male",
+  "birthday": "2001-10-29",
+  "created_at": "2025-06-12T00:38:00Z",
+  "email": "andrew.popescu@gmail.com",
+  "preferences": {
+    "emotions": {
+      "hope": 0.1,
+      "love": 0.1,
+      "sadness": 0.1,
+      "joy": 0.1,
+      "fear": 0.1,
+      "regret": 0.1,
+      "loneliness": 0.1,
+      "calm": 0.1,
+      "admiration": 0.1,
+      "nostalgia": 0.1
+    },
+    "languages": {
+      "ro": 0.1,
+      "en": 0.1,
+      "es": 0.1,
+      "fr": 0.1,
+      "it": 0.1,
+      "de": 0.1
+    }
+  }
+},
+{
+  "_id": 4,
+  "username": "user3",
+  "password": "1234",
+  "name": "Maria",
+  "lastname": "Ionescu",
+  "gender": "female",
+  "birthday": "1986-09-02",
+  "created_at": "2025-06-12T00:38:00Z",
+  "email": "mary.ionescoo@gmail.com",
+  "bio": "🥰🥰🥰",
+  "preferences": {
+    "emotions": {
+      "hope": 0.1,
+      "love": 0.1,
+      "sadness": 0.1,
+      "joy": 0.1,
+      "fear": 0.1,
+      "regret": 0.1,
+      "loneliness": 0.1,
+      "calm": 0.1,
+      "admiration": 0.1,
+      "nostalgia": 0.1
+    },
+    "languages": {
+      "ro": 0.1,
+      "en": 0.1,
+      "es": 0.1,
+      "fr": 0.1,
+      "it": 0.1,
+      "de": 0.1
+    }
+  }
+},
+{
+  "_id": 5,
+  "username": "user4",
+  "password": "1234",
+  "name": "Ioana",
+  "lastname": "Dumitrescu",
+  "gender": "female",
+  "birthday": "1994-12-17",
+  "created_at": "2025-06-12T00:38:00Z",
+  "email": "ioana.ioa.dumi@gmail.com",
+  "preferences": {
+    "emotions": {
+      "hope": 0.1,
+      "love": 0.1,
+      "sadness": 0.1,
+      "joy": 0.1,
+      "fear": 0.1,
+      "regret": 0.1,
+      "loneliness": 0.1,
+      "calm": 0.1,
+      "admiration": 0.1,
+      "nostalgia": 0.1
+    },
+    "languages": {
+      "ro": 0.1,
+      "en": 0.1,
+      "es": 0.1,
+      "fr": 0.1,
+      "it": 0.1,
+      "de": 0.1
+    }
+  }
+},
+{
+  "_id": 6,
+  "username": "user5",
+  "password": "1234",
+  "name": "Vlad",
+  "lastname": "Georgescu",
+  "gender": "male",
+  "birthday": "1986-02-14",
+  "created_at": "2025-06-12T00:38:00Z",
+  "email": "Vlad.georgescu@yahoo.com",
+  "preferences": {
+    "emotions": {
+      "hope": 0.1,
+      "love": 0.1,
+      "sadness": 0.1,
+      "joy": 0.1,
+      "fear": 0.1,
+      "regret": 0.1,
+      "loneliness": 0.1,
+      "calm": 0.1,
+      "admiration": 0.1,
+      "nostalgia": 0.1
+    },
+    "languages": {
+      "ro": 0.1,
+      "en": 0.1,
+      "es": 0.1,
+      "fr": 0.1,
+      "it": 0.1,
+      "de": 0.1
+    }
+  }
+},
+{
+  "_id": 7,
+  "username": "user6",
+  "password": "1234",
+  "name": "Elena",
+  "lastname": "Stoica",
+  "gender": "female",
+  "birthday": "2002-02-15",
+  "created_at": "2025-06-12T00:38:00Z",
+  "email": "elena.stoica.2002.test@outlook.com",
+  "preferences": {
+    "emotions": {
+      "hope": 0.1,
+      "love": 0.1,
+      "sadness": 0.1,
+      "joy": 0.1,
+      "fear": 0.1,
+      "regret": 0.1,
+      "loneliness": 0.1,
+      "calm": 0.1,
+      "admiration": 0.1,
+      "nostalgia": 0.1
+    },
+    "languages": {
+      "ro": 0.1,
+      "en": 0.1,
+      "es": 0.1,
+      "fr": 0.1,
+      "it": 0.1,
+      "de": 0.1
+    }
+  }
+},
+{
+  "_id": 8,
+  "username": "user7",
+  "password": "1234",
+  "name": "George",
+  "lastname": "Radu",
+  "gender": "male",
+  "birthday": "1989-03-09",
+  "created_at": "2025-06-12T00:38:00Z",
+  "email": "george.radu.1989.test@yahoo.com",
+  "preferences": {
+    "emotions": {
+      "hope": 0.1,
+      "love": 0.1,
+      "sadness": 0.1,
+      "joy": 0.1,
+      "fear": 0.1,
+      "regret": 0.1,
+      "loneliness": 0.1,
+      "calm": 0.1,
+      "admiration": 0.1,
+      "nostalgia": 0.1
+    },
+    "languages": {
+      "ro": 0.1,
+      "en": 0.1,
+      "es": 0.1,
+      "fr": 0.1,
+      "it": 0.1,
+      "de": 0.1
+    }
+  }
+},
+{
+  "_id": 9,
+  "username": "user8",
+  "password": "1234",
+  "name": "Ana",
+  "lastname": "Matei",
+  "gender": "female",
+  "birthday": "2001-03-26",
+  "created_at": "2025-06-12T00:38:00Z",
+  "email": "ana.matei.2001.test@outlook.com",
+  "preferences": {
+    "emotions": {
+      "hope": 0.1,
+      "love": 0.1,
+      "sadness": 0.1,
+      "joy": 0.1,
+      "fear": 0.1,
+      "regret": 0.1,
+      "loneliness": 0.1,
+      "calm": 0.1,
+      "admiration": 0.1,
+      "nostalgia": 0.1
+    },
+    "languages": {
+      "ro": 0.1,
+      "en": 0.1,
+      "es": 0.1,
+      "fr": 0.1,
+      "it": 0.1,
+      "de": 0.1
+    }
+  }
+},
+{
+  "_id": 10,
+  "username": "user9",
+  "password": "1234",
+  "name": "Robert",
+  "lastname": "Marin",
+  "gender": "male",
+  "birthday": "1993-07-29",
+  "created_at": "2025-06-12T00:38:00Z",
+  "email": "robert.marin.1993.test@outlook.com",
+  "preferences": {
+    "emotions": {
+      "hope": 0.1,
+      "love": 0.1,
+      "sadness": 0.1,
+      "joy": 0.1,
+      "fear": 0.1,
+      "regret": 0.1,
+      "loneliness": 0.1,
+      "calm": 0.1,
+      "admiration": 0.1,
+      "nostalgia": 0.1
+    },
+    "languages": {
+      "ro": 0.1,
+      "en": 0.1,
+      "es": 0.1,
+      "fr": 0.1,
+      "it": 0.1,
+      "de": 0.1
+    }
+  }
+},
+{
+  "_id": 11,
+  "username": "user10",
+  "password": "1234",
+  "name": "Carmen",
+  "lastname": "Preda",
+  "gender": "female",
+  "birthday": "1987-10-20",
+  "created_at": "2025-06-12T00:38:00Z",
+  "email": "carmen.preda.1987.test@outlook.com",
+  "preferences": {
+    "emotions": {
+      "hope": 0.1,
+      "love": 0.1,
+      "sadness": 0.1,
+      "joy": 0.1,
+      "fear": 0.1,
+      "regret": 0.1,
+      "loneliness": 0.1,
+      "calm": 0.1,
+      "admiration": 0.1,
+      "nostalgia": 0.1
+    },
+    "languages": {
+      "ro": 0.1,
+      "en": 0.1,
+      "es": 0.1,
+      "fr": 0.1,
+      "it": 0.1,
+      "de": 0.1
+    }
+  }
+},
+{
+  "_id": 12,
+  "username": "user11",
+  "password": "1234",
+  "name": "Alex",
+  "lastname": "Tudor",
+  "gender": "male",
+  "birthday": "1986-08-12",
+  "created_at": "2025-06-12T00:38:00Z",
+  "email": "alex.tudor.1986.test@gmail.com",
+  "preferences": {
+    "emotions": {
+      "hope": 0.1,
+      "love": 0.1,
+      "sadness": 0.1,
+      "joy": 0.1,
+      "fear": 0.1,
+      "regret": 0.1,
+      "loneliness": 0.1,
+      "calm": 0.1,
+      "admiration": 0.1,
+      "nostalgia": 0.1
+    },
+    "languages": {
+      "ro": 0.1,
+      "en": 0.1,
+      "es": 0.1,
+      "fr": 0.1,
+      "it": 0.1,
+      "de": 0.1
+    }
+  }
+},
+{
+  "_id": 13,
+  "username": "user12",
+  "password": "1234",
+  "name": "Bianca",
+  "lastname": "Ilie",
+  "gender": "female",
+  "birthday": "1992-09-06",
+  "created_at": "2025-06-12T00:38:00Z",
+  "email": "bianca.ilie.1992.test@yahoo.com",
+  "preferences": {
+    "emotions": {
+      "hope": 0.1,
+      "love": 0.1,
+      "sadness": 0.1,
+      "joy": 0.1,
+      "fear": 0.1,
+      "regret": 0.1,
+      "loneliness": 0.1,
+      "calm": 0.1,
+      "admiration": 0.1,
+      "nostalgia": 0.1
+    },
+    "languages": {
+      "ro": 0.1,
+      "en": 0.1,
+      "es": 0.1,
+      "fr": 0.1,
+      "it": 0.1,
+      "de": 0.1
+    }
+  }
+},
+{
+  "_id": 14,
+  "username": "citeste.clasici",
+  "password": "1234",
+  "name": "Mihai",
+  "lastname": "Nistor",
+  "gender": "male",
+  "birthday": "1991-09-22",
+  "created_at": "2025-06-12T00:38:00Z",
+  "email": "mihai.nistor.1991.test@yahoo.com",
+  "bio": "Sunt profesor universitar la UBB, pasionat de poezii🤍🤍🤍",
+  "preferences": {
+    "emotions": {
+      "hope": 0.1,
+      "love": 0.1,
+      "sadness": 0.1,
+      "joy": 0.1,
+      "fear": 0.1,
+      "regret": 0.1,
+      "loneliness": 0.1,
+      "calm": 0.1,
+      "admiration": 0.1,
+      "nostalgia": 0.1
+    },
+    "languages": {
+      "ro": 0.1,
+      "en": 0.1,
+      "es": 0.1,
+      "fr": 0.1,
+      "it": 0.1,
+      "de": 0.1
+    }
+  }
+},
+{
+  "_id": 15,
+  "username": "user14",
+  "password": "1234",
+  "name": "Diana",
+  "lastname": "Grigore",
+  "gender": "female",
+  "birthday": "2001-12-03",
+  "created_at": "2025-06-12T00:38:00Z",
+  "email": "diana.grigore.2001.test@yahoo.com",
+  "preferences": {
+    "emotions": {
+      "hope": 0.1,
+      "love": 0.1,
+      "sadness": 0.1,
+      "joy": 0.1,
+      "fear": 0.1,
+      "regret": 0.1,
+      "loneliness": 0.1,
+      "calm": 0.1,
+      "admiration": 0.1,
+      "nostalgia": 0.1
+    },
+    "languages": {
+      "ro": 0.1,
+      "en": 0.1,
+      "es": 0.1,
+      "fr": 0.1,
+      "it": 0.1,
+      "de": 0.1
+    }
+  }
+},
+{
+  "_id": 16,
+  "username": "user15",
+  "password": "1234",
+  "name": "Florin",
+  "lastname": "Barbu",
+  "gender": "male",
+  "birthday": "1991-06-27",
+  "created_at": "2025-06-12T00:38:00Z",
+  "email": "florin.barbu.1991.test@gmail.com",
+  "preferences": {
+    "emotions": {
+      "hope": 0.1,
+      "love": 0.1,
+      "sadness": 0.1,
+      "joy": 0.1,
+      "fear": 0.1,
+      "regret": 0.1,
+      "loneliness": 0.1,
+      "calm": 0.1,
+      "admiration": 0.1,
+      "nostalgia": 0.1
+    },
+    "languages": {
+      "ro": 0.1,
+      "en": 0.1,
+      "es": 0.1,
+      "fr": 0.1,
+      "it": 0.1,
+      "de": 0.1
+    }
+  }
+},
+{
+  "_id": 17,
+  "username": "user16",
+  "password": "1234",
+  "name": "Alexandra",
+  "lastname": "Sava",
+  "gender": "female",
+  "birthday": "1994-10-06",
+  "created_at": "2025-06-12T00:38:00Z",
+  "email": "alexandra.sava.1994.test@yahoo.com",
+  "preferences": {
+    "emotions": {
+      "hope": 0.1,
+      "love": 0.1,
+      "sadness": 0.1,
+      "joy": 0.1,
+      "fear": 0.1,
+      "regret": 0.1,
+      "loneliness": 0.1,
+      "calm": 0.1,
+      "admiration": 0.1,
+      "nostalgia": 0.1
+    },
+    "languages": {
+      "ro": 0.1,
+      "en": 0.1,
+      "es": 0.1,
+      "fr": 0.1,
+      "it": 0.1,
+      "de": 0.1
+    }
+  }
+},
+{
+  "_id": 18,
+  "username": "user17",
+  "password": "1234",
+  "name": "Paul",
+  "lastname": "Lupu",
+  "gender": "male",
+  "birthday": "1992-05-20",
+  "created_at": "2025-06-12T00:38:00Z",
+  "email": "paul.lupu.1992.test@gmail.com",
+  "preferences": {
+    "emotions": {
+      "hope": 0.1,
+      "love": 0.1,
+      "sadness": 0.1,
+      "joy": 0.1,
+      "fear": 0.1,
+      "regret": 0.1,
+      "loneliness": 0.1,
+      "calm": 0.1,
+      "admiration": 0.1,
+      "nostalgia": 0.1
+    },
+    "languages": {
+      "ro": 0.1,
+      "en": 0.1,
+      "es": 0.1,
+      "fr": 0.1,
+      "it": 0.1,
+      "de": 0.1
+    }
+  }
+},
+{
+  "_id": 19,
+  "username": "user18",
+  "password": "1234",
+  "name": "Cristina",
+  "lastname": "Mihalache",
+  "gender": "female",
+  "birthday": "1987-01-27",
+  "created_at": "2025-06-12T00:38:00Z",
+  "email": "cristina.mihalache.1987.test@yahoo.com",
+  "preferences": {
+    "emotions": {
+      "hope": 0.1,
+      "love": 0.1,
+      "sadness": 0.1,
+      "joy": 0.1,
+      "fear": 0.1,
+      "regret": 0.1,
+      "loneliness": 0.1,
+      "calm": 0.1,
+      "admiration": 0.1,
+      "nostalgia": 0.1
+    },
+    "languages": {
+      "ro": 0.1,
+      "en": 0.1,
+      "es": 0.1,
+      "fr": 0.1,
+      "it": 0.1,
+      "de": 0.1
+    }
+  }
+},
+{
+  "_id": 20,
+  "username": "user19",
+  "password": "1234",
+  "name": "David",
+  "lastname": "Diaconu",
+  "gender": "male",
+  "birthday": "1991-08-12",
+  "created_at": "2025-06-12T00:38:00Z",
+  "email": "david.diaconu.1991.test@outlook.com",
+  "preferences": {
+    "emotions": {
+      "hope": 0.1,
+      "love": 0.1,
+      "sadness": 0.1,
+      "joy": 0.1,
+      "fear": 0.1,
+      "regret": 0.1,
+      "loneliness": 0.1,
+      "calm": 0.1,
+      "admiration": 0.1,
+      "nostalgia": 0.1
+    },
+    "languages": {
+      "ro": 0.1,
+      "en": 0.1,
+      "es": 0.1,
+      "fr": 0.1,
+      "it": 0.1,
+      "de": 0.1
+    }
+  }
+},
+{
+  "_id": 21,
+  "username": "user20",
+  "password": "1234",
+  "name": "Larisa",
+  "lastname": "Petrescu",
+  "gender": "female",
+  "birthday": "1989-09-08",
+  "created_at": "2025-06-12T00:38:00Z",
+  "email": "larisa.petrescu.1989.test@gmail.com",
+  "preferences": {
+    "emotions": {
+      "hope": 0.1,
+      "love": 0.1,
+      "sadness": 0.1,
+      "joy": 0.1,
+      "fear": 0.1,
+      "regret": 0.1,
+      "loneliness": 0.1,
+      "calm": 0.1,
+      "admiration": 0.1,
+      "nostalgia": 0.1
+    },
+    "languages": {
+      "ro": 0.1,
+      "en": 0.1,
+      "es": 0.1,
+      "fr": 0.1,
+      "it": 0.1,
+      "de": 0.1
+    }
+  }
+},
+{
+  "_id": 22,
+  "username": "user21",
+  "password": "1234",
+  "name": "Ionuț",
+  "lastname": "Bălan",
+  "gender": "male",
+  "birthday": "1999-04-06",
+  "created_at": "2025-06-12T00:38:00Z",
+  "email": "ionut.balan.1999.test@yahoo.com",
+  "preferences": {
+    "emotions": {
+      "hope": 0.1,
+      "love": 0.1,
+      "sadness": 0.1,
+      "joy": 0.1,
+      "fear": 0.1,
+      "regret": 0.1,
+      "loneliness": 0.1,
+      "calm": 0.1,
+      "admiration": 0.1,
+      "nostalgia": 0.1
+    },
+    "languages": {
+      "ro": 0.1,
+      "en": 0.1,
+      "es": 0.1,
+      "fr": 0.1,
+      "it": 0.1,
+      "de": 0.1
+    }
+  }
+},
+{
+  "_id": 23,
+  "username": "user22",
+  "password": "1234",
+  "name": "Gabriela",
+  "lastname": "Stan",
+  "gender": "female",
+  "birthday": "1985-03-03",
+  "created_at": "2025-06-12T00:38:00Z",
+  "email": "gabriela.stan.1985.test@gmail.com",
+  "preferences": {
+    "emotions": {
+      "hope": 0.1,
+      "love": 0.1,
+      "sadness": 0.1,
+      "joy": 0.1,
+      "fear": 0.1,
+      "regret": 0.1,
+      "loneliness": 0.1,
+      "calm": 0.1,
+      "admiration": 0.1,
+      "nostalgia": 0.1
+    },
+    "languages": {
+      "ro": 0.1,
+      "en": 0.1,
+      "es": 0.1,
+      "fr": 0.1,
+      "it": 0.1,
+      "de": 0.1
+    }
+  }
+},
+{
+  "_id": 24,
+  "username": "user23",
+  "password": "1234",
+  "name": "Ștefan",
+  "lastname": "Dobre",
+  "gender": "male",
+  "birthday": "1995-10-10",
+  "created_at": "2025-06-12T00:38:00Z",
+  "email": "stefan.dobre.1995.test@yahoo.com",
+  "preferences": {
+    "emotions": {
+      "hope": 0.1,
+      "love": 0.1,
+      "sadness": 0.1,
+      "joy": 0.1,
+      "fear": 0.1,
+      "regret": 0.1,
+      "loneliness": 0.1,
+      "calm": 0.1,
+      "admiration": 0.1,
+      "nostalgia": 0.1
+    },
+    "languages": {
+      "ro": 0.1,
+      "en": 0.1,
+      "es": 0.1,
+      "fr": 0.1,
+      "it": 0.1,
+      "de": 0.1
+    }
+  }
+},
+{
+  "_id": 25,
+  "username": "user24",
+  "password": "1234",
+  "name": "Alina",
+  "lastname": "Toma",
+  "gender": "female",
+  "birthday": "1994-09-05",
+  "created_at": "2025-06-12T00:38:00Z",
+  "email": "alina.toma.1994.test@yahoo.com",
+  "preferences": {
+    "emotions": {
+      "hope": 0.1,
+      "love": 0.1,
+      "sadness": 0.1,
+      "joy": 0.1,
+      "fear": 0.1,
+      "regret": 0.1,
+      "loneliness": 0.1,
+      "calm": 0.1,
+      "admiration": 0.1,
+      "nostalgia": 0.1
+    },
+    "languages": {
+      "ro": 0.1,
+      "en": 0.1,
+      "es": 0.1,
+      "fr": 0.1,
+      "it": 0.1,
+      "de": 0.1
+    }
+  }
+},
+{
+  "_id": 26,
+  "username": "user25",
+  "password": "1234",
+  "name": "Laurențiu",
+  "lastname": "Oprea",
+  "gender": "male",
+  "birthday": "1999-12-18",
+  "created_at": "2025-06-12T00:38:00Z",
+  "email": "laurentiu.oprea.1999.test@outlook.com",
+  "preferences": {
+    "emotions": {
+      "hope": 0.1,
+      "love": 0.1,
+      "sadness": 0.1,
+      "joy": 0.1,
+      "fear": 0.1,
+      "regret": 0.1,
+      "loneliness": 0.1,
+      "calm": 0.1,
+      "admiration": 0.1,
+      "nostalgia": 0.1
+    },
+    "languages": {
+      "ro": 0.1,
+      "en": 0.1,
+      "es": 0.1,
+      "fr": 0.1,
+      "it": 0.1,
+      "de": 0.1
+    }
+  }
+},
+{
+  "_id": 27,
+  "username": "damaris.ivan",
+  "password": "1234",
+  "name": "Damaris",
+  "lastname": "Ivan",
+  "birthday": "2002-10-25",
+  "created_at": "2025-06-12T00:57:00Z",
+  "email": "damaris.ivan.2510@gmail.com",
+  "gender": "female",
+  "preferences": {
+    "emotions": {
+      "hope": 0.020373,
+      "love": 0.01,
+      "sadness": 0.01,
+      "joy": 0.01534,
+      "fear": 0.032788,
+      "regret": 0.037238,
+      "loneliness": 0.01,
+      "calm": 0.024605,
+      "admiration": 0.017166,
+      "nostalgia": 0.016722
+    },
+    "languages": {
+      "ro": 0.029603313426312172,
+      "en": 0.01,
+      "es": 0.01985066458832363,
+      "fr": 0.01,
+      "it": 0.01,
+      "de": 0.01
+    }
+  }
+},
+{
+  "_id": 28,
+  "username": "irchit2",
+  "password": "1234",
+  "name": "Chiţea",
+  "lastname": "Răzvan",
+  "gender": "unspecified",
+  "birthday": "2025-06-02",
+  "created_at": "2025-06-12T02:15:01.319386Z",
+  "preferences": {
+    "emotions": {
+      "hope": 0.1,
+      "love": 0.1,
+      "sadness": 0.1,
+      "joy": 0.1,
+      "fear": 0.1,
+      "regret": 0.1,
+      "loneliness": 0.1,
+      "calm": 0.1,
+      "admiration": 0.1,
+      "nostalgia": 0.1
+    },
+    "languages": {
+      "ro": 0.1,
+      "en": 0.1,
+      "es": 0.1,
+      "fr": 0.1,
+      "it": 0.1,
+      "de": 0.1
+    }
+  }
+},
+{
+  "_id": 29,
+  "username": "keri",
+  "password": "1234",
+  "name": "Andrei",
+  "lastname": "Cheran",
+  "gender": "male",
+  "birthday": "2004-03-05",
+  "created_at": "2025-06-12T17:45:40.025320Z",
+  "email": "andreikeri123@gmail.com",
+  "bio": "Când mă plictisesc, bag una şi citesc.\n#loveforpoetry",
+  "preferences": {
+    "emotions": {
+      "hope": 0.1,
+      "love": 0.1,
+      "sadness": 0.1,
+      "joy": 0.1,
+      "fear": 0.1,
+      "regret": 0.1,
+      "loneliness": 0.1,
+      "calm": 0.1,
+      "admiration": 0.1,
+      "nostalgia": 0.1
+    },
+    "languages": {
+      "ro": 0.1,
+      "en": 0.1,
+      "es": 0.1,
+      "fr": 0.1,
+      "it": 0.1,
+      "de": 0.1
+    }
+  }
+},
+{
+  "_id": 30,
+  "username": "keri1",
+  "password": "123",
+  "name": "Andrei",
+  "lastname": "Cheran",
+  "gender": "male",
+  "birthday": "2004-03-05",
+  "created_at": "2025-06-12T17:49:45.541351Z",
+  "email": "andreikeran123@gmail.com",
+  "preferences": {
+    "emotions": {
+      "hope": 0.1,
+      "love": 0.1,
+      "sadness": 0.1,
+      "joy": 0.1,
+      "fear": 0.1,
+      "regret": 0.1,
+      "loneliness": 0.1,
+      "calm": 0.1,
+      "admiration": 0.1,
+      "nostalgia": 0.1
+    },
+    "languages": {
+      "ro": 0.1,
+      "en": 0.1,
+      "es": 0.1,
+      "fr": 0.1,
+      "it": 0.1,
+      "de": 0.1
+    }
+  }
+},
+{
+  "_id": 31,
+  "username": "ale.cojocariu",
+  "password": "1234",
+  "name": "Alexandra",
+  "lastname": "Cojocariu",
+  "gender": "female",
+  "birthday": "2003-06-04",
+  "created_at": "2025-06-14T05:25:20.840913Z",
+  "email": "ale.cojo.teo.poco@yahoo.com",
+  "preferences": {
+    "emotions": {
+      "hope": 0.1,
+      "love": 0.1,
+      "sadness": 0.1,
+      "joy": 0.1,
+      "fear": 0.1,
+      "regret": 0.1,
+      "loneliness": 0.1,
+      "calm": 0.1,
+      "admiration": 0.1,
+      "nostalgia": 0.1
+    },
+    "languages": {
+      "ro": 0.1,
+      "en": 0.1,
+      "es": 0.1,
+      "fr": 0.1,
+      "it": 0.1,
+      "de": 0.1
+    }
+  }
+},
+{
+  "_id": 32,
+  "username": "anda_calin",
+  "password": "1234",
+  "name": "Anda-Maria",
+  "lastname": "Calin",
+  "gender": "female",
+  "birthday": "2003-08-15",
+  "created_at": "2025-06-14T05:37:49.162239Z",
+  "email": "anda.calin@yahoo.com",
+  "preferences": {
+    "emotions": {
+      "hope": 0.1,
+      "love": 0.1,
+      "sadness": 0.1,
+      "joy": 0.1,
+      "fear": 0.1,
+      "regret": 0.1,
+      "loneliness": 0.1,
+      "calm": 0.1,
+      "admiration": 0.1,
+      "nostalgia": 0.1
+    },
+    "languages": {
+      "ro": 0.1,
+      "en": 0.1,
+      "es": 0.1,
+      "fr": 0.1,
+      "it": 0.1,
+      "de": 0.1
+    }
+  }
+},
+{
+  "_id": 33,
+  "username": "mary.chi",
+  "password": "1234",
+  "name": "Maria",
+  "lastname": "Chitea",
+  "gender": "female",
+  "birthday": "2001-04-20",
+  "created_at": "2025-06-14T05:45:49.642251Z",
+  "email": "chitea.maria@yahoo.com",
+  "bio": "🧡🧡🧡",
+  "preferences": {
+    "emotions": {
+      "hope": 0.1,
+      "love": 0.1,
+      "sadness": 0.1,
+      "joy": 0.1,
+      "fear": 0.1,
+      "regret": 0.1,
+      "loneliness": 0.1,
+      "calm": 0.1,
+      "admiration": 0.1,
+      "nostalgia": 0.1
+    },
+    "languages": {
+      "ro": 0.1,
+      "en": 0.1,
+      "es": 0.1,
+      "fr": 0.1,
+      "it": 0.1,
+      "de": 0.1
+    }
+  }
+},
+{
+  "_id": 34,
+  "username": "roxi.foxy",
+  "password": "1234",
+  "name": "Roxana",
+  "lastname": "Enache",
+  "gender": "female",
+  "birthday": "2004-02-19",
+  "created_at": "2025-06-14T15:27:26.653674Z",
+  "email": "roxi.enache@gmail.com",
+  "bio": "Vreau matcha... 🍵",
+  "preferences": {
+    "emotions": {
+      "hope": 0.1,
+      "love": 0.1,
+      "sadness": 0.1,
+      "joy": 0.1,
+      "fear": 0.1,
+      "regret": 0.1,
+      "loneliness": 0.1,
+      "calm": 0.1,
+      "admiration": 0.1,
+      "nostalgia": 0.1
+    },
+    "languages": {
+      "ro": 0.1,
+      "en": 0.1,
+      "es": 0.1,
+      "fr": 0.1,
+      "it": 0.1,
+      "de": 0.1
+    }
+  }
+}]

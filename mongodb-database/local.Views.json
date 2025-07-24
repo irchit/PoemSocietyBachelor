@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "684e0d3c9a28b6124a936046"
+  },
+  "who": 27,
+  "post_id": 1,
+  "viewed_at": "2025-06-15T00:01:00.709204Z",
+  "score": 0.5499999999999999,
+  "commented": 1
+},
+{
+  "_id": {
+    "$oid": "684e0ffe0317204fae4bed2c"
+  },
+  "who": 27,
+  "post_id": 16,
+  "viewed_at": "2025-06-15T00:12:46.923085Z",
+  "score": 1,
+  "commented": 1
+},
+{
+  "_id": {
+    "$oid": "684e1065e93ad46185cbbe63"
+  },
+  "who": 27,
+  "post_id": 21,
+  "viewed_at": "2025-06-15T00:14:29.490465Z",
+  "score": 1,
+  "commented": 1
+}]

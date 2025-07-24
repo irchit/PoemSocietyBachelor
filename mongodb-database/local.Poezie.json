@@ -1,0 +1,960 @@
+[{
+  "_id": 1,
+  "user": "irchit",
+  "title": "Te vreau",
+  "created_at": "18.03.2025",
+  "posted_at": "2025-06-12T00:46:12Z",
+  "content": "Te vreau, e greu să explic tot,§Te vreau, alergând ca un idiot!§Te vreau, aşa cum eşti,§Te vreau și cum vei fi...§§Te vreau, o expresie ce ţi-aş fi şoptit...§Te vreau, alergând ca un tâmpit!§Te vreau, în dimineața caldă ce frumusețea ți-o arată,§Te vreau și în noaptea rece, când brațele tale mă-nfășoară...§§Te vreau, cuvinte de le-aș fi vorbit...§Te vreau, alergând ca un smucit!§Te vreau, când privirea ta de foc mă lovește,§Te vreau și când gândul tabloul tău mi-l amintește...§§Te vreau, egoist vorbele le cânt,§Te vreau, alergând și când mă simt înfrânt...§Te vreau, şi vreau să te sărut,§Te vreau, și vreau să-ți duc secretul în mormânt...§§Te vreau, cu o ultimă strigare!§Te vreau, alergând fără frânare!§Te vreau, te vreau, te vreau pe tine!§Te vreau, şi sufletul meu îţi apartine...",
+  "author": "Razvan Chitea",
+  "analysis": {
+    "language": "ro",
+    "sentiment": [
+      [
+        {
+          "ro": "teamă",
+          "en": "fear",
+          "es": "miedo",
+          "de": "angst",
+          "it": "paura",
+          "fr": "peur"
+        },
+        0.189
+      ],
+      [
+        {
+          "ro": "admirație",
+          "en": "admiration",
+          "es": "admiración",
+          "de": "bewunderung",
+          "it": "ammirazione",
+          "fr": "admiration"
+        },
+        0.145
+      ],
+      [
+        {
+          "ro": "nostalgie",
+          "en": "nostalgia",
+          "es": "nostalgia",
+          "de": "nostalgie",
+          "it": "nostalgia",
+          "fr": "nostalgie"
+        },
+        0.136
+      ]
+    ],
+    "theme": "asă, e greu sărut!§Te vreau, te vreau, te vreau, te vreau, te vreau, te vreau, te"
+  }
+},
+{
+  "_id": 2,
+  "title": "Creează-mi vântule un gând",
+  "content": "Creează-mi vântule un gând,§Și du-l tot mai departe.§Suflă-l tare - un cuvânt;§Pune-i temelii pe marte.§Că de-aș încerca să-l cânt,§Răgușit strigăt în șoapte,§Un gând e tot ce pot să-mi plâng§Căci lacrimile-s moarte.",
+  "user": "damaris.ivan",
+  "author": "Damaris Ivan",
+  "created_at": "03.05.2025",
+  "posted_at": "2025-06-11T13:44:56Z",
+  "analysis": {
+    "language": "ro",
+    "sentiment": [
+      [
+        {
+          "ro": "regret",
+          "en": "regret",
+          "es": "arrepentimiento",
+          "de": "reue",
+          "it": "rimpianto",
+          "fr": "regret"
+        },
+        0.271
+      ],
+      [
+        {
+          "ro": "tristețe",
+          "en": "sadness",
+          "es": "tristeza",
+          "de": "traurigkeit",
+          "it": "tristezza",
+          "fr": "tristesse"
+        },
+        0.252
+      ],
+      [
+        {
+          "ro": "liniște",
+          "en": "calm",
+          "es": "calma",
+          "de": "ruhe",
+          "it": "calma",
+          "fr": "calme"
+        },
+        0.127
+      ]
+    ],
+    "theme": "ează un gând.§Suflă-l tare - un cuvânt;§;§Pune--i temelii pe-"
+  }
+},
+{
+  "_id": 3,
+  "user": "irchit",
+  "title": "Cuvinte Arse",
+  "created_at": "03.06.2022",
+  "posted_at": "2025-05-10T10:46:12Z",
+  "content": "Le ard, ca și pe lemne,§Le ard, nu cred în semne,§Le ard, urmez faptele,§Le ard, ard și șoaptele...§§Dacă nu le ard, cresc,§Se adună și gândesc...§Cel mai bun combustibil§Cu motorul vieții compatibil. §§Le ard, că altfel mă întreb \"de ce?\",§Le ard, le las să plece,§Le ard pe foi albe cu-n chibrit,§Le ard, chiar dacă le-am iubit...§§Zbor în cenușiul afumat,§Gând plecat, gând eliberat.§Pot iubi, arzând ce e în jur,§Mai bine decât să depun sperjur...",
+  "author": "Razvan Chitea",
+  "analysis": {
+    "language": "ro",
+    "sentiment": [
+      [
+        {
+          "ro": "teamă",
+          "en": "fear",
+          "es": "miedo",
+          "de": "angst",
+          "it": "paura",
+          "fr": "peur"
+        },
+        0.158
+      ],
+      [
+        {
+          "ro": "admirație",
+          "en": "admiration",
+          "es": "admiración",
+          "de": "bewunderung",
+          "it": "ammirazione",
+          "fr": "admiration"
+        },
+        0.147
+      ],
+      [
+        {
+          "ro": "liniște",
+          "en": "calm",
+          "es": "calma",
+          "de": "ruhe",
+          "it": "calma",
+          "fr": "calme"
+        },
+        0.144
+      ]
+    ],
+    "theme": "ăi,§Zbor în cenușiul,§Gând,§Gând,§Gând,§Gând,"
+  }
+},
+{
+  "_id": 4,
+  "user": "citeste.clasici",
+  "title": "Lacul",
+  "author": "Mihai Eminescu",
+  "created_at": "13.06.2025",
+  "posted_at": "2025-06-13T09:00:00Z",
+  "content": "Lacul codrilor albastru§Nuferi galbeni îl încarcă;§Tresărind în cercuri albe§El cutremură o barcă.§§Şi eu trec de-a lung de maluri,§Parc-ascult şi parc-aştept§Ea din trestii să răsară§Şi s-arunce braţu-n piept;§§Să sărim în luntrea mică,§Îngânaţi de glas de ape,§Şi să scap din mână cârma,§Şi lopeţile să-mi scape;§§Să plutim cuprinşi de farmec§Sub lumina blândei lune —§Vântu-n trestii lin foşnească,§Undoioasa apă sune!§§Dar nu vine... Singuratic§În zadar suspin şi sufăr§Lângă lacul cel albastru§Încărcat cu flori de nufăr.",
+  "analysis": {
+    "language": "ro",
+    "sentiment": [
+      [
+        {
+          "ro": "regret",
+          "en": "regret",
+          "es": "arrepentimiento",
+          "de": "reue",
+          "it": "rimpianto",
+          "fr": "regret"
+        },
+        0.212
+      ],
+      [
+        {
+          "ro": "tristețe",
+          "en": "sadness",
+          "es": "tristeza",
+          "de": "traurigkeit",
+          "it": "tristezza",
+          "fr": "tristesse"
+        },
+        0.153
+      ],
+      [
+        {
+          "ro": "liniște",
+          "en": "calm",
+          "es": "calma",
+          "de": "ruhe",
+          "it": "calma",
+          "fr": "calme"
+        },
+        0.136
+      ]
+    ],
+    "theme": "ează cu cârma,§Parc-ascult şi parc-aştept&&&&&&&&&&"
+  }
+},
+{
+  "_id": 5,
+  "user": "citeste.clasici",
+  "title": "Dorinta",
+  "author": "Mihai Eminescu",
+  "created_at": "13.06.2025",
+  "posted_at": "2025-06-13T09:01:00Z",
+  "content": "Vino-n codru la izvorul§Care tremură pe prund,§Unde prispa cea de brazde§Crengi plecate o ascund.§§Şi în braţu-mi lasă-ţi capul§Şi-ţi voi spune atunci poveşti§Şi cu ale tale plete§Împleti-voi mândre eşti.§§Codrul clocoti de cântec§Şi de glas de păsărele,§Şi izvoarele suspină§Cu mirare-n ochişori.§§Vom visa un vis ferice,§Îngâna-ne-vor cu drag§Noaptea cea de primăvară§Şi fântânile din prag.",
+  "analysis": {
+    "language": "ro",
+    "sentiment": [
+      [
+        {
+          "ro": "nostalgie",
+          "en": "nostalgia",
+          "es": "nostalgia",
+          "de": "nostalgie",
+          "it": "nostalgia",
+          "fr": "nostalgie"
+        },
+        0.181
+      ],
+      [
+        {
+          "ro": "tristețe",
+          "en": "sadness",
+          "es": "tristeza",
+          "de": "traurigkeit",
+          "it": "tristezza",
+          "fr": "tristesse"
+        },
+        0.157
+      ],
+      [
+        {
+          "ro": "teamă",
+          "en": "fear",
+          "es": "miedo",
+          "de": "angst",
+          "it": "paura",
+          "fr": "peur"
+        },
+        0.132
+      ]
+    ],
+    "theme": "în jurul,§Şi de cântec§Şi de păs de păs de păs de păs de păs"
+  }
+},
+{
+  "_id": 7,
+  "user": "citeste.clasici",
+  "title": "Revedere",
+  "author": "Mihai Eminescu",
+  "created_at": "13.06.2025",
+  "posted_at": "2025-06-13T09:03:00Z",
+  "content": "Codrule, codruţule,§Ce mai faci, drăguţule,§Că de când nu ne-am văzut§Multă vreme au trecut§§Şi de când m-am depărtat§Multă lume am umblat.§§Ia, eu fac ce fac demult,§Iarna viscolu-l ascult,§Crengile-mi rupându-le,§Apele astupându-le,§§Troienind cărările§Şi gonind cântările;§Şi mai fac ce fac de mult,§Vara doina mi-o ascult§§Pe cărarea spre izvor§Ce le-am dat-o tuturor,§Umplu cu umbra mea§Şi răcoare lumea ta;§§Iar de pe la amurg în sus§Înc-o ţin şi mai apus,§În tăcerea mea de freamăt§Dorm flămând şi fără geamăt.",
+  "analysis": {
+    "language": "ro",
+    "sentiment": [
+      [
+        {
+          "ro": "teamă",
+          "en": "fear",
+          "es": "miedo",
+          "de": "angst",
+          "it": "paura",
+          "fr": "peur"
+        },
+        0.192
+      ],
+      [
+        {
+          "ro": "nostalgie",
+          "en": "nostalgia",
+          "es": "nostalgia",
+          "de": "nostalgie",
+          "it": "nostalgia",
+          "fr": "nostalgie"
+        },
+        0.171
+      ],
+      [
+        {
+          "ro": "regret",
+          "en": "regret",
+          "es": "arrepentimiento",
+          "de": "reue",
+          "it": "rimpianto",
+          "fr": "regret"
+        },
+        0.135
+      ]
+    ],
+    "theme": "asă§Şi de când nu ne-am văzut ne ne ne ne ne ne ne ne-am văzut§ ne ne ne ne"
+  }
+},
+{
+  "_id": 8,
+  "user": "citeste.clasici",
+  "title": "Ce te legeni",
+  "author": "Mihai Eminescu",
+  "created_at": "13.06.2025",
+  "posted_at": "2025-06-13T09:04:00Z",
+  "content": "Ce te legeni, codrule,§Fără ploaie, fără vânt,§Cu crengile la pământ?§§De ce nu m-aş legăna,§Dacă trece vremea mea!§Ziua scade, noaptea creşte§Şi frunzişul mi-l răreşte.§§Bate vântul dintr-o parte,§Iar frunzişul mi-l desparte;§Bate vântul dintr-a’ lung§Şi mă pleacă frate-ntr-un.",
+  "analysis": {
+    "language": "ro",
+    "sentiment": [
+      [
+        {
+          "ro": "regret",
+          "en": "regret",
+          "es": "arrepentimiento",
+          "de": "reue",
+          "it": "rimpianto",
+          "fr": "regret"
+        },
+        0.247
+      ],
+      [
+        {
+          "ro": "tristețe",
+          "en": "sadness",
+          "es": "tristeza",
+          "de": "traurigkeit",
+          "it": "tristezza",
+          "fr": "tristesse"
+        },
+        0.153
+      ],
+      [
+        {
+          "ro": "teamă",
+          "en": "fear",
+          "es": "miedo",
+          "de": "angst",
+          "it": "paura",
+          "fr": "peur"
+        },
+        0.126
+      ]
+    ],
+    "theme": "ează,§Bate vântultultultultultultultultultultultultultultultultultultultultul"
+  }
+},
+{
+  "_id": 9,
+  "user": "citeste.clasici",
+  "title": "Eu nu strivesc corola de minuni a lumii",
+  "author": "Lucian Blaga",
+  "created_at": "13.06.2025",
+  "posted_at": "2025-06-12T09:05:00Z",
+  "content": "Eu nu strivesc corola de minuni a lumii§şi nu ucid§cu mintea tainele, ce le-ntâlnesc§în calea mea§în flori, în ochi, pe buze ori morminte.§Lumina altora§sugrumă vraja nepătrunsului ascuns§în adâncimi de întuneric,§dar eu,§eu cu lumina mea sporesc a lumii taină —§şi tot ce-i ne-nţeles§se schimbă-n ne-nţelesuri şi mai mari§sub ochii mei§căci eu iubesc§şi flori şi ochi şi buze şi morminte.",
+  "analysis": {
+    "language": "ro",
+    "sentiment": [
+      [
+        {
+          "ro": "iubire",
+          "en": "love",
+          "es": "amor",
+          "de": "liebe",
+          "it": "amore",
+          "fr": "amour"
+        },
+        0.155
+      ],
+      [
+        {
+          "ro": "nostalgie",
+          "en": "nostalgia",
+          "es": "nostalgia",
+          "de": "nostalgie",
+          "it": "nostalgia",
+          "fr": "nostalgie"
+        },
+        0.135
+      ],
+      [
+        {
+          "ro": "bucurie",
+          "en": "joy",
+          "es": "alegría",
+          "de": "freude",
+          "it": "gioia",
+          "fr": "joie"
+        },
+        0.128
+      ]
+    ],
+    "theme": "asă§rumăra§şi,§şi§şi,,şi,şi,şi,şi,şi§şi,şi"
+  }
+},
+{
+  "_id": 10,
+  "user": "citeste.clasici",
+  "title": "Izvorul nopții",
+  "author": "Lucian Blaga",
+  "created_at": "13.06.2025",
+  "posted_at": "2025-06-13T09:06:00Z",
+  "content": "Pe-un picior de plai,§Pe-o gură de rai,§Iată vin în cale,§Se cobor la vale§Trei turme de miei§Cu trei ciobănei.§§Unu-i moldovan,§Unu-i ungurean§Şi unu-i vrâncean.§Iar cel ungurean§În stat, mai arân,§Şi cel vrâncean,§Cu ochi ca de cer,§Dar cel moldovan§Pare mai cu dor§Şi mai gânditor.",
+  "analysis": {
+    "language": "ro",
+    "sentiment": [
+      [
+        {
+          "ro": "nostalgie",
+          "en": "nostalgia",
+          "es": "nostalgia",
+          "de": "nostalgie",
+          "it": "nostalgia",
+          "fr": "nostalgie"
+        },
+        0.169
+      ],
+      [
+        {
+          "ro": "teamă",
+          "en": "fear",
+          "es": "miedo",
+          "de": "angst",
+          "it": "paura",
+          "fr": "peur"
+        },
+        0.137
+      ],
+      [
+        {
+          "ro": "speranță",
+          "en": "hope",
+          "es": "esperanza",
+          "de": "hoffnung",
+          "it": "speranza",
+          "fr": "espoir"
+        },
+        0.135
+      ]
+    ],
+    "theme": "în cale.§Iar cel ungureanananan.§ă cel ungurean.În stat ungurean."
+  }
+},
+{
+  "_id": 11,
+  "user": "citeste.clasici",
+  "title": "Lumina",
+  "author": "Lucian Blaga",
+  "created_at": "13.06.2025",
+  "posted_at": "2025-06-13T09:07:00Z",
+  "content": "Lumina ce-o simt năvălind§în piept când te văd,§oare nu e un strop din lumina§făgăduită fecioarei de înger?§§Dacă te-ai împărtăşi din ea,§ai putea să te-ntorci§într-o lume de-apoi?§Eu cred că nici lumina n-ar mai putea§scăpa din tine vreodată!",
+  "analysis": {
+    "language": "ro",
+    "sentiment": [
+      [
+        {
+          "ro": "nostalgie",
+          "en": "nostalgia",
+          "es": "nostalgia",
+          "de": "nostalgie",
+          "it": "nostalgia",
+          "fr": "nostalgie"
+        },
+        0.137
+      ],
+      [
+        {
+          "ro": "teamă",
+          "en": "fear",
+          "es": "miedo",
+          "de": "angst",
+          "it": "paura",
+          "fr": "peur"
+        },
+        0.129
+      ],
+      [
+        {
+          "ro": "liniște",
+          "en": "calm",
+          "es": "calma",
+          "de": "ruhe",
+          "it": "calma",
+          "fr": "calme"
+        },
+        0.128
+      ]
+    ],
+    "theme": "asă§ai,§ai putea să te-ntorci§ te-ntorci§§§§§§§§§§"
+  }
+},
+{
+  "_id": 12,
+  "user": "citeste.clasici",
+  "title": "Riga Crypto și lapona Enigel",
+  "author": "Ion Barbu",
+  "created_at": "13.06.2025",
+  "posted_at": "2025-06-13T09:08:00Z",
+  "content": "Riga Crypto și lapona Enigel§Poem alegoric§§— Din Nurgush, naltă ţară dură,§Veni Enigel înspre sud,§Să vadă vara de pădure,§Să vadă soarele, ce-i crud.§§Înspre răspântia cea rară,§Pe-unde scurta ei corvoadă§Căta ocolul cel mai iute,§Ajunse-ntr-o cetate roată,§§În care Riga Crypto-şi duce§Sihăstria de păcate§Într-o cuşcă ferecată§Cu tăcere şi cu lapte...",
+  "analysis": {
+    "language": "ro",
+    "sentiment": [
+      [
+        {
+          "ro": "admirație",
+          "en": "admiration",
+          "es": "admiración",
+          "de": "bewunderung",
+          "it": "ammirazione",
+          "fr": "admiration"
+        },
+        0.428
+      ],
+      [
+        {
+          "ro": "nostalgie",
+          "en": "nostalgia",
+          "es": "nostalgia",
+          "de": "nostalgie",
+          "it": "nostalgia",
+          "fr": "nostalgie"
+        },
+        0.223
+      ],
+      [
+        {
+          "ro": "teamă",
+          "en": "fear",
+          "es": "miedo",
+          "de": "angst",
+          "it": "paura",
+          "fr": "peur"
+        },
+        0.083
+      ]
+    ],
+    "theme": "ăi Enigel§Poem alego,—— Din Nurgus,— Din Nurgus,§ înspre sud,"
+  }
+},
+{
+  "_id": 13,
+  "user": "citeste.clasici",
+  "title": "Uvedenrode",
+  "author": "Ion Barbu",
+  "created_at": "13.06.2025",
+  "posted_at": "2025-06-13T09:09:00Z",
+  "content": "Era pe când nu s-aprinsese luna,§Când stelele pe cer nu se stingeau,§Când ielele cu pletele nebune§În dansul lor văzduhul despicau.§§Când murea dealul în păduri albastre§Şi codrii se trezeau în somn de ape,§Iar vântul greu se învârtea prin caste§În cercuri, desenând în nori arape...",
+  "analysis": {
+    "language": "ro",
+    "sentiment": [
+      [
+        {
+          "ro": "liniște",
+          "en": "calm",
+          "es": "calma",
+          "de": "ruhe",
+          "it": "calma",
+          "fr": "calme"
+        },
+        0.176
+      ],
+      [
+        {
+          "ro": "nostalgie",
+          "en": "nostalgia",
+          "es": "nostalgia",
+          "de": "nostalgie",
+          "it": "nostalgia",
+          "fr": "nostalgie"
+        },
+        0.169
+      ],
+      [
+        {
+          "ro": "teamă",
+          "en": "fear",
+          "es": "miedo",
+          "de": "angst",
+          "it": "paura",
+          "fr": "peur"
+        },
+        0.144
+      ]
+    ],
+    "theme": "şi se învârtea prin caste§În,, desenând în cercuri,când,când, prin cercuri,"
+  }
+},
+{
+  "_id": 14,
+  "title": "Păcat Cosmic",
+  "author": "Chitea Razvan",
+  "created_at": "06.06.2022",
+  "content": "La început au fost doar:§Apă, foc, aer și pământ.§Apa săruta munții suav,§Pământul nu era doar mormânt...§§Dar aerul a rămas prieten bun,§Viată dăruind unui muribund...§Frate rămas lângă frate,§Focul fără el nu poate.§§Eu foc, pierdut în aer murdar,§Caut să ard, ăsta e al meu dar,§Consum, nu-s bun de nimic,§Sunt singurul păcat cosmic...§§Și scopul meu e să ard,§Scopu-mi-e vise să sparg...§Ard aer și pământ,§Mă feresc de izvorul sfânt...§§Sunt iubire, eșec născut,§Fără de mine s-ar fi putut,§Să fie o lume in armonie,§Dar o ard dintr-o prostie...§§Orbesc în gând și iau răgazul,§Cuvinte arse, sunt necazul§Fraților ce vor să crească,§Eu îi invăț ce-i să iubească...§§Defect născut în eter,§Par roșu, dar sunt negru etern,§Luminez, dar de fapt îmi chem alt frate,§În întuneric, țip a moarte...",
+  "user": "irchit",
+  "posted_at": "2025-06-14T04:58:11.652Z",
+  "analysis": {
+    "language": "ro",
+    "sentiment": [
+      [
+        {
+          "ro": "iubire",
+          "en": "love",
+          "es": "amor",
+          "de": "liebe",
+          "it": "amore",
+          "fr": "amour"
+        },
+        0.187
+      ],
+      [
+        {
+          "ro": "singurătate",
+          "en": "loneliness",
+          "es": "soledad",
+          "de": "einsamkeit",
+          "it": "solitudine",
+          "fr": "solitude"
+        },
+        0.175
+      ],
+      [
+        {
+          "ro": "regret",
+          "en": "regret",
+          "es": "arrepentimiento",
+          "de": "reue",
+          "it": "rimpianto",
+          "fr": "regret"
+        },
+        0.117
+      ]
+    ],
+    "theme": "în întune...§Și-mi-e vise să sparg... vise să vise să vise să vise să vise să vise"
+  }
+},
+{
+  "_id": 15,
+  "title": "Autoportret",
+  "author": "Lucian Blaga",
+  "created_at": "01.08.1942",
+  "content": "Lucian Blaga e mut ca o lebădă.§În patria sa§zăpada făpturii ţine loc de cuvânt.§Sufletul lui e în căutare§în muta, seculara căutare§de totdeauna,§şi până la cele din urmă hotare.§§El caută apa din care bea curcubeul.§El caută apa,§§din care curcubeul§îşi bea frumuseţea şi nefiinţa.",
+  "user": "ale.cojocariu",
+  "posted_at": "2025-06-14T05:31:09.271Z",
+  "analysis": {
+    "language": "ro",
+    "sentiment": [
+      [
+        {
+          "ro": "teamă",
+          "en": "fear",
+          "es": "miedo",
+          "de": "angst",
+          "it": "paura",
+          "fr": "peur"
+        },
+        0.203
+      ],
+      [
+        {
+          "ro": "liniște",
+          "en": "calm",
+          "es": "calma",
+          "de": "ruhe",
+          "it": "calma",
+          "fr": "calme"
+        },
+        0.151
+      ],
+      [
+        {
+          "ro": "admirație",
+          "en": "admiration",
+          "es": "admiración",
+          "de": "bewunderung",
+          "it": "ammirazione",
+          "fr": "admiration"
+        },
+        0.109
+      ]
+    ],
+    "theme": "în care bea frumuseţea şi nefiinţa. şi nefiinţa. şi nefiinţa. şi nefiinţa"
+  }
+},
+{
+  "_id": 16,
+  "title": "Yoy",
+  "author": "Razvan Chitea",
+  "created_at": "14.02.2025",
+  "content": "Una sorpresa para la princesa,§para cumplir mi promesa,§de no dejar a una chica así,§sola en un gran palasí.§§En el día del amor, al menos una flor,§dejar en sus manos un color,§rojo como el fuego en su alma,§rosas que dibujan una sonrisa calma.",
+  "user": "irchit",
+  "posted_at": "2025-06-14T18:52:37.840Z",
+  "analysis": {
+    "language": "es",
+    "sentiment": [
+      [
+        {
+          "ro": "speranță",
+          "en": "hope",
+          "es": "esperanza",
+          "de": "hoffnung",
+          "it": "speranza",
+          "fr": "espoir"
+        },
+        0.21
+      ],
+      [
+        {
+          "ro": "regret",
+          "en": "regret",
+          "es": "arrepentimiento",
+          "de": "reue",
+          "it": "rimpianto",
+          "fr": "regret"
+        },
+        0.138
+      ],
+      [
+        {
+          "ro": "bucurie",
+          "en": "joy",
+          "es": "alegría",
+          "de": "freude",
+          "it": "gioia",
+          "fr": "joie"
+        },
+        0.108
+      ]
+    ],
+    "theme": "la la la la la la la la la la la la la la la la la la la la la"
+  }
+},
+{
+  "_id": 17,
+  "title": "Don't forget me",
+  "author": "Red Hot Chili Peppers",
+  "created_at": "09.07.2002",
+  "content": "I'm an ocean in your bedroom§Make you feel warm§Make you want to reassume§Now we know it all for sure§I'm a dancehall, dirty break beat§Make the snow fall up from underneath your feet§Not alone, I'll be there§Tell me when you want to go§I'm a meth lab, first rehab§Take it all off and step inside the running cab§There's a love that knows the way§I'm the rainbow in your jail cell§All the memories of everything you've ever smelled§Not alone, I'll be there§Tell me when you want to go§Oh (sideways falling, more will be revealed, my friend)§Don't forget me, I can't hide it (sideways falling)§Come again, get me excited (more will be revealed, my friend)§I'm an inbred and a pothead§Two legs that you spread inside the tool shed§Now we know it all for sure§I could show you to the free field§Overcome and more will always be revealed§Not alone, I'll be there§Tell me when you want to go§Oh, and (sideways falling, more will be revealed, my friend)§Don't forget me, I can't hide it (sideways falling)§Come again, get me excited (more will be revealed, my friend)§Oh, and (sideways falling, more will be revealed, my friend)§Don't forget me, I can't hide it (sideways falling)§There's a match, now let me light it (more will be revealed, my friend)§I'm the bloodstain on your shirt sleeve§Coming down and more, coming to believe§Now we know it all for sure§Make the hair stand up on your arm§Teach you how to dance inside the funny farm§Not alone, I'll be there§Tell me when you want to go§I'll be there, tell me when you want to go§Come again, and tell me when you want to go§More will be revealed my friend",
+  "user": "roxi.foxy",
+  "posted_at": "2025-06-14T19:06:30.800Z",
+  "analysis": {
+    "language": "en",
+    "sentiment": [
+      [
+        {
+          "ro": "nostalgie",
+          "en": "nostalgia",
+          "es": "nostalgia",
+          "de": "nostalgie",
+          "it": "nostalgia",
+          "fr": "nostalgie"
+        },
+        0.294
+      ],
+      [
+        {
+          "ro": "iubire",
+          "en": "love",
+          "es": "amor",
+          "de": "liebe",
+          "it": "amore",
+          "fr": "amour"
+        },
+        0.249
+      ],
+      [
+        {
+          "ro": "admirație",
+          "en": "admiration",
+          "es": "admiración",
+          "de": "bewunderung",
+          "it": "ammirazione",
+          "fr": "admiration"
+        },
+        0.118
+      ]
+    ],
+    "theme": "y, now we know it all for sure§I'"
+  }
+},
+{
+  "_id": 18,
+  "title": "Non è andata così",
+  "author": "Stefano Lentini",
+  "created_at": "15.06.2020",
+  "content": "Tic-toc, oggi il mio orologio torna dietro, seh§Tic-toc, primma ca faceva o piezz aret a casa e Pietro§Primma ca vedevo sanghe scorrere a rinda giugulare§Quando ragazzino correvo dietro la stradale§Dimmi che cosa rimane dei sogni di quando ero bambino§Dimmi se il cuore mi batte più forte quando mi sei vicino§Dimmelo se la mia faccia è davvero cambiata§Diceno ca io songo stesso pur si aggio acciso a nato§Eppure il profumo di queste lenzuole§Non cancella il fumo della pistola§Tu ca cade doppo ca taggia sparato§Guardo e scarpe nove mentre me ne vado§Sai, da grande io volevo diventare§Quello che presenta il telegiornale§Chille ca sanno parla sulo italiano§Chille ca e sbirre e guardano a luntano§No, non è andata così§Nun è juta acussì§No, no, no§No, non è andata così§Nun è juta accussì§No, no, no§Tic-toc, mi ricordo quando eri mio padre, sì§Tic-toc mi portavi all'Edenlandia la domenica d'estate§M'accattava graffe co zucchero filato§Me puluzava a vocca quando me l'er spurcat§Sono cresciuto in un mito, ma tu sei caduto§Un Padreterno nel fango e poi sei sparito§E l'eredità ca me lassat e stu peccato§Ca notte me turmenta e me fa sta scetato§Eppure il profumo di queste lenzuole§Non cancella il fumo della pistola§Tu che cade doppo ca taggio sparato§Guardo e scarpe nove mentre me ne vaco§No, non è andata così§Nun è juta acussì§No, no, no§No, non è andata così§Nun è juta accussì§No, no, no§No, non è andata così§Nun è juta accussì§No, no, no§No, non è andata così§Nun è juta accussì§No, no, no§No, non è andata così§Nun è juta accussì§No, no, no",
+  "user": "roxi.foxy",
+  "posted_at": "2025-06-14T19:11:44.191Z",
+  "analysis": {
+    "language": "it",
+    "sentiment": [
+      [
+        {
+          "ro": "regret",
+          "en": "regret",
+          "es": "arrepentimiento",
+          "de": "reue",
+          "it": "rimpianto",
+          "fr": "regret"
+        },
+        0.19
+      ],
+      [
+        {
+          "ro": "nostalgie",
+          "en": "nostalgia",
+          "es": "nostalgia",
+          "de": "nostalgie",
+          "it": "nostalgia",
+          "fr": "nostalgie"
+        },
+        0.146
+      ],
+      [
+        {
+          "ro": "admirație",
+          "en": "admiration",
+          "es": "admiración",
+          "de": "bewunderung",
+          "it": "ammirazione",
+          "fr": "admiration"
+        },
+        0.131
+      ]
+    ],
+    "theme": "-toc, seh§Tic-toc, primma ca face ca faceva ca face ca faceva ca face"
+  }
+},
+{
+  "_id": 19,
+  "title": "L’enfer",
+  "author": "Stromae",
+  "created_at": "15.06.2022",
+  "content": "Je suis pas tout seul à être tout seul§Ça fait déjà ça de moins dans la tête§Et si je comptais, combien on est§Beaucoup§Tout ce à quoi j'ai déjà pensé§Dire que plein d'autres y ont déjà pensé§Mais malgré tout, je me sens tout seul§Du coup§§J'ai parfois eu des pensées suicidaires§Et j'en suis peu fier§On croit parfois que c'est la seule§Manière de les faire taire§Ces pensées qui nous font vivre un enfer§Ces pensées qui me font vivre un enfer§§Est-ce qu'il y a que moi qui ai la télé§Et la chaîne culpabilité?§Mais faut bien se changer les idées§Pas trop, quand même§Sinon ça repart vite dans la tête§Et c'est trop tard pour que ça s'arrête§C'est là que j'aimerais tout oublier§Du coup§§J'ai parfois eu des pensées suicidaires§Et j'en suis peu fier§On croit parfois que c'est la seule manière§De les faire taire§Ces pensées qui nous font vivre un enfer§Ces pensées qui me font vivre un enfer§§Tu sais, j'ai mûrement réfléchi§Et je sais vraiment pas quoi faire de toi§Justement, réfléchir§C'est bien le problème avec toi§Tu sais, j'ai mûrement réfléchi§Et je sais vraiment pas quoi faire de toi§Justement, réfléchir§C'est bien le problème avec toi",
+  "user": "roxi.foxy",
+  "posted_at": "2025-06-14T19:16:11.096Z",
+  "analysis": {
+    "language": "fr",
+    "sentiment": [
+      [
+        {
+          "ro": "tristețe",
+          "en": "sadness",
+          "es": "tristeza",
+          "de": "traurigkeit",
+          "it": "tristezza",
+          "fr": "tristesse"
+        },
+        0.125
+      ],
+      [
+        {
+          "ro": "regret",
+          "en": "regret",
+          "es": "arrepentimiento",
+          "de": "reue",
+          "it": "rimpianto",
+          "fr": "regret"
+        },
+        0.118
+      ],
+      [
+        {
+          "ro": "speranță",
+          "en": "hope",
+          "es": "esperanza",
+          "de": "hoffnung",
+          "it": "speranza",
+          "fr": "espoir"
+        },
+        0.113
+      ]
+    ],
+    "theme": "en passant§J'ai mûrement§§§§§'''''''''''''"
+  }
+},
+{
+  "_id": 20,
+  "title": "Imperiu nesfârşit",
+  "author": "Razvan Chitea",
+  "created_at": "28.04.2022",
+  "content": "Un imperiu peste pământul timpului,§Doi soldați apără comoara teritoriului.§Se apară unul pe altul, luptă cu săbile iubirii,§Împung direct în suflet păcatul uitării...§§Taie capetele pofticiosului trecut,§Care vrea să despartă iubirea imperiului nou-născut,§Pe care nu-l lasă să invadeze alte gânduri bune,§Care trage cu săgeți de foc în iubire, să se răzbune...§§Se răzbună că facem din umbra lui lumină,§Ceea ce nu credem că are să îi convină,§Dar lumina îl va întâlni din nou §Cu umbra vom avea de aface mereu...",
+  "user": "irchit",
+  "posted_at": "2025-06-14T19:21:00.434Z",
+  "analysis": {
+    "language": "ro",
+    "sentiment": [
+      [
+        {
+          "ro": "iubire",
+          "en": "love",
+          "es": "amor",
+          "de": "liebe",
+          "it": "amore",
+          "fr": "amour"
+        },
+        0.274
+      ],
+      [
+        {
+          "ro": "regret",
+          "en": "regret",
+          "es": "arrepentimiento",
+          "de": "reue",
+          "it": "rimpianto",
+          "fr": "regret"
+        },
+        0.138
+      ],
+      [
+        {
+          "ro": "tristețe",
+          "en": "sadness",
+          "es": "tristeza",
+          "de": "traurigkeit",
+          "it": "tristezza",
+          "fr": "tristesse"
+        },
+        0.132
+      ]
+    ],
+    "theme": "asă, soldați apără comoara teritoriului.§Se apară.§ se apară....§ se apar"
+  }
+},
+{
+  "_id": 21,
+  "title": "Consiliul Norilor",
+  "author": "Damaris Ivan",
+  "created_at": "20.05.2023",
+  "content": "§Azi am luat lumea la pas.§Norii au tinut consiliu§chiar de-asupra mea.§În aprinderea discuției§au consumat mai tot oxigenul§și ne-au lăsat în prag de asfixiere.§§Vorbeau ceva legat de drepturi,§nu am auzit prea bine…§Dar cu siguranță dezbăteau§dacă norițele ar trebui, sau nu,§să facă parte din consiliu…§Ei, norii, de parcă ar știi!§§A mai ținut câteva minute discuția,§dar ținând cont de inflație§și durata deplasării informației,§pentru oameni era deja o idee prea mult.§Mă uitam în jur - vedeam oameni în repaus -§Nu vezi așa ceva prea des…§§La finalul dezbaterii s-au dus norii acasă§și și-au salutat norițele - vești proaste§A urmat o ceartă… două… trei…§Oamenii ajunseseră în punctul culminant…§se simțea în atmosfera instabilă§și apoi a început ploaia. Ce sa vezi!§§Nu mai rezistau mult in ritmul ăsta.§Stând și uitându-mă la ei cu uimire,§zici că oamenii au fost băgați din nou în priză -§ca niște furnici, fiecare în treaba ei.§Păcat că nu le-am făcut o poză măcar,§Ar fi intrat bine în discuție la următorul consiliu.",
+  "user": "damaris.ivan",
+  "posted_at": "2025-06-14T20:51:28.107Z",
+  "analysis": {
+    "language": "ro",
+    "sentiment": [
+      [
+        {
+          "ro": "regret",
+          "en": "regret",
+          "es": "arrepentimiento",
+          "de": "reue",
+          "it": "rimpianto",
+          "fr": "regret"
+        },
+        0.22
+      ],
+      [
+        {
+          "ro": "liniște",
+          "en": "calm",
+          "es": "calma",
+          "de": "ruhe",
+          "it": "calma",
+          "fr": "calme"
+        },
+        0.156
+      ],
+      [
+        {
+          "ro": "teamă",
+          "en": "fear",
+          "es": "miedo",
+          "de": "angst",
+          "it": "paura",
+          "fr": "peur"
+        },
+        0.145
+      ]
+    ],
+    "theme": "ăășteri că oamenii au fost băgați, băgați în prizați,§§§ fost băgați"
+  }
+}]
